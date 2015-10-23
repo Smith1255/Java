@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PairOfDice()
+comment1.params=numFaces
+comment1.target=PairOfDice(int)
+comment2.params=numFacesOne\ numFacesTwo
+comment2.target=PairOfDice(int,\ int)
+comment3.params=
+comment3.target=void\ roll()
+comment4.params=
+comment4.target=int[]\ getFaceValueArray()
+comment5.params=die
+comment5.target=int\ getSingleValue(int)
+comment6.params=
+comment6.target=boolean\ areEqual()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
